@@ -2,6 +2,7 @@
 
 /**
 * reverse_array - reverse array of integers.
+* 
 * @a: pointer to  array
 * @n: number of elements of array
 * Return: void
